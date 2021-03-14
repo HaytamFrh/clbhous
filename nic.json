@@ -1,26 +1,25 @@
 {
 
 	"bodies": [{
-		"title": "About App",
-		"step": "A charging animation software shortcut command autolation is used."
+		"title": "What’s Nicco App? ",
+		"step": "Nico App is an application that helps you get a better in-game experience for free fire. When you enter the game"
 	}, {
-		"title": "What's new",
-		"step": "When the mobile phone is connected to the data wireless charging panel is placed, the program will automatically start and turn on the charging animation display."
+		"title": "Enter the battle",
+		"step": "Enter the battle, then you can see the skins, More function: You can also change the crosshair when you enter the battlefield. "
 	}, {
-		"title": "Integrated function",
-		"step": "When the data line is pulled out or removed from the wireless charging panel, the program will exit, which convernient and practical"
+		"title": "Choose the skin",
+		"step": "Choose the skin via the floating window. You can also try the skins from the store. We will remember your choices and you can see them after you return to the lobby."
 
 	}, {
-		"title": "Download for android",
-		"step": "You will nedd to pass this step verification, it will take few seconds from your time."
+		"title": "Start",
+		"step": "make sure you downloaded the resources in the game’s download centre, then download an open the nicoo app. Click the button above to start free fire. "
 
 	}, {
-		"title": "App User Guide",
-		"step": "You will nedd to pass this step verification, it will take few seconds from your time."
+		"title": "About The Game",
+		"step": "FF is one of the most famous and top-rated battle royal games for Android. It offers lots of amazing items for free. But there is more attractive and amazing paid stuff for the players in the game."
 	}, {
-		"title": "App Last One",
-		"step": "You will nedd to pass this step verification, it will take few seconds from your time.When the mobile phone is connected to the data wireless charging panel is placed, the program will automatically start and turn on the charging animation display.When the mobile phone is connected to the data wireless charging panel is placed, the program will automatically start and turn on the charging animation display.When the mobile phone is connected to the data wireless charging panel is placed, the program will automatically start and turn on the charging animation display.When the mobile phone is connected to the data wireless charging panel is placed, the program will automatically start and turn on the charging animation display.When the mobile phone is connected to the data wireless charging panel is placed, the program will automatically start and turn on the charging animation display.When the mobile phone is connected to the data wireless charging panel is placed, the program will automatically start and turn on the charging animation display."
-	}],
+		"title": "How To Download",
+		"step": "The tool provides stuff for every character. It has tons of things that you can avail of. So, download the latest version of the app to get benefits."
 
 	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
 	"admob_inter": "ca-app-pub-3940256099942544/1033173712",
@@ -32,7 +31,7 @@
 	"whichAds": 1,
 	
 	"link":"https://play.google.com/store/apps/details?id=com.webprancer.google.garfieldFit",
-	"status":true
+	"status":false
 
 
 }
